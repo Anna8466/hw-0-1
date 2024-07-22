@@ -8,4 +8,4 @@
 ## GIT PULL
 
 ```git pull```is a command that allows you to fetch from and integrate with another repository or local branch.
-```git pull``` is actually a Git fetch followed by an additional action -typically a Git merge.
+```git pull```  is actually a Git fetch followed by an additional action -typically a Git merge.
